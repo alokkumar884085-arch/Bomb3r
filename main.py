@@ -1,4 +1,4 @@
-#!/use/bin/env python3
+#!/usr/bin/env python3
 # ==============================================
 # 🐉 BLACKEYES SMS BOMBER - TELEGRAM BOT v6.0
 # With Credit System, Inline Buttons, Force Join
