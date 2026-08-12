@@ -1,9 +1,4 @@
-✅ Complete Updated main.py with All Features
-
-Haan, ending mein if __name__ == "__main__": main() aayega. Yeh raha pura complete code:
-
-```python
-#!/usr/bin/env python3
+#!/use/bin/env python3
 # ==============================================
 # 🐉 BLACKEYES SMS BOMBER - TELEGRAM BOT v6.0
 # With Credit System, Inline Buttons, Force Join
